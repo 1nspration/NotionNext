@@ -39,11 +39,7 @@ export function InfoCard(props) {
         </div>
       </div>
 
-      <h2 className='text-3xl font-extrabold mt-3' style="
-        background: linear-gradient(90deg, green, blue);
-        -webkit-background-clip: text;
-        color: transparent;
-    ">{siteConfig('AUTHOR')}</h2>
+      <h2 className='text-3xl font-extrabold mt-3'>{siteConfig('AUTHOR')}</h2>
 
       {/* 公告栏 */}
       <div>

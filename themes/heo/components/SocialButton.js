@@ -24,7 +24,7 @@ const SocialButton = () => {
             rel='noreferrer'
             title={'twitter'}
             href={siteConfig('CONTACT_TWITTER')}>
-            <i className='transform hover:scale-125 duration-150 fab fa-x-twitter dark:hover:text-indigo-400 hover:text-indigo-600' />
+            <i className='transform hover:scale-125 duration-150 fa-brands fa-square-x-twitter dark:hover:text-indigo-400 hover:text-indigo-600' />
           </a>
         )}
         {siteConfig('CONTACT_TELEGRAM') && (

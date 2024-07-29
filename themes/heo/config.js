@@ -5,10 +5,10 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '🥳 欢迎来到我的博客！到处逛逛吧~', url: 'https://www.pcx.net.cn/' },
+    { title: '🥳 欢迎来到我的博客！到处逛逛吧~' },
     { title: '🤪 我可不会告诉你我最爱看《科技爱好者周刊》了', url: 'https://github.com/ruanyf/weekly' },
-    { title: '🤔 给你一天思考，你能想出最厉害的系统架构是怎样的？', url: 'https://www.pcx.net.cn/' },
-    { title: '🫵 莫等闲，白了少年头，空悲切！', url: 'https://www.pcx.net.cn/' },
+    { title: '🤔 给你一天思考，你能想出最厉害的系统架构是怎样的？' },
+    { title: '🫵 莫等闲，白了少年头，空悲切！' },
     { title: '🏃 感到无聊？ 1，2，3 走! 我们来两道LeetCode ~', url: 'https://leetcode.cn/' }
   ],
 

@@ -5,8 +5,11 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '🥳 欢迎来到我的博客！到处逛逛吧~', url: 'https://www.pcx.net.cn/' },
+    { title: '🤪 我可不会告诉你我最爱看《科技爱好者周刊》了', url: 'https://github.com/ruanyf/weekly' },
+    { title: '🤔 给你一天思考，你能想出最厉害的系统架构是怎样的？', url: 'https://www.pcx.net.cn/' },
+    { title: '🫵 莫等闲，白了少年头，空悲切！', url: 'https://www.pcx.net.cn/' },
+    { title: '🏃 感到无聊？ 1，2，3 走! 我们来两道LeetCode ~', url: 'https://leetcode.cn/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -35,12 +38,11 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🤖 无情的bug制造机器',
+    '👻 古希腊掌管速通的鬼',
+    '🏃 跑步爱好者',
+    '📱 数码科技迷',
+    '🎶 好像五音有点不全的歌手'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
